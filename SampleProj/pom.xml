@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.git.samples</groupId>
 	<artifactId>SampleProj</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>SampleProj</name>
 	<description>SampleProj</description>
 	
@@ -13,6 +13,14 @@
 		<developerConnection>scm:git:https://github.com/reachpns/SampleRepo.git</developerConnection>
 	  <tag>v0.0.1</tag>
   </scm>
+  
+  <properties>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>                
+    <nexus.id>nexus</nexus.id>
+    <nexus.url>http://lxleapdevv3:8081/repository/maven-releases/</nexus.url>
+    <github.global.server>github</github.global.server>
+ </properties>
 	
 	<dependencies>
 	
