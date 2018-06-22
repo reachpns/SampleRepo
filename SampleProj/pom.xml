@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.git.samples</groupId>
 	<artifactId>SampleProj</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>SampleProj</name>
 	<description>SampleProj</description>
 	
@@ -12,7 +12,7 @@
 		<url>https://github.com/reachpns/SampleRepo</url>
 		<developerConnection>scm:git:https://github.com/reachpns/SampleRepo.git</developerConnection>
 	    <!--<tag>v0.0.1</tag> -->
-      <tag>v0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
   
   <properties>
