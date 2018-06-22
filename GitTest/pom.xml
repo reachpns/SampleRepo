@@ -89,6 +89,7 @@
 					<arguments>-Dmaven.javadoc.skip=true</arguments>
 					<arguments>-Dmaven.source.skip=true</arguments>	
 					<pushChanges>true</pushChanges>
+					<server>github</server>
 				</configuration>
 			</plugin>
 
