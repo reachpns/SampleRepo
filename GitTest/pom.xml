@@ -84,7 +84,7 @@
 						<git>jgit</git>
 					</providerImplementations> -->
 					<goals>deploy</goals>
-					<tagBase>https://github.com/sreedevi58/helloworld.git/tags/GitTest</tagBase>
+					<tagBase>https://github.com/reachpns/SampleRepo.git/tags/GitTest</tagBase>
 					<tagNameFormat>@{artifactId}-@{version}-Tag</tagNameFormat>
 					<arguments>-Dmaven.javadoc.skip=true</arguments>
 					<arguments>-Dmaven.source.skip=true</arguments>	
