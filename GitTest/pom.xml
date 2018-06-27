@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>GitTest</artifactId>
-  <version>0.0.9-SNAPSHOT</version>
+  <version>0.0.9</version>
 <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>		
@@ -14,7 +14,7 @@
 <scm>
 		<connection>scm:git:https://github.com/reachpns/SampleRepo.git/</connection>
 		<developerConnection>scm:git:https://github.com/reachpns/SampleRepo.git/</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>GitTest-0.0.9-Tag</tag>
   </scm> 
 	<build>
 
